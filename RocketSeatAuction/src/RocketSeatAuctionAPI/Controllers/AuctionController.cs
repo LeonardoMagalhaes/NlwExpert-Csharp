@@ -4,8 +4,6 @@ using RocketSeatAuctionAPI.UseCases.Auctions.GetCurrent;
 
 namespace RocketSeatAuctionAPI.Controllers
 {
-    [Route("[controller]")]
-    [ApiController]
     public class AuctionController : ControllerBase
     {
         [HttpGet]
