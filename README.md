@@ -30,10 +30,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/LeonardoMagalhaes/NlwExpert-Csharp">
-    <img src="./src/assets/winking.png" alt="Logo" width="80" height="80">
-  </a>
-
   <h3 align="center">NlwExpert-Csharp</h3>
 
   <p align="center">
@@ -148,5 +144,5 @@ Project Link: [https://github.com/LeonardoMagalhaes/NlwExpert-Csharp](https://gi
 [CSharp]: https://img.shields.io/badge/Csharp-20232A?style=for-the-badge&logo=csharp&logoColor=61DAFB
 [CSharp-url]: https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/
 [Dotnet]: https://img.shields.io/badge/dotnet-569845?style=for-the-badge&logo=dotnet&logoColor=55aadd66
-[Dotnetp-url]: https://dotnet.microsoft.com/pt-br/
+[Dotnet-url]: https://dotnet.microsoft.com/pt-br/
 
